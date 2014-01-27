@@ -1,4 +1,4 @@
-hackathon
-=========
+# rOpenSci Hackathon   
+## (invitation only), March 29-30, San Francisco
 
-Repo to brainstorm ideas (unconference style) for the rOpenSci hackathon. 
+A repo to brainstorm ideas (unconference style) and projects for the rOpenSci hackathon. Details forthcoming.
