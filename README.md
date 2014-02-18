@@ -3,7 +3,7 @@ __(invitation only), March 31 - April 1, 2014. San Francisco__
 
 ---
 
-rOpenSci will be hosting it's first major developer meeting and open science hackathon in San Francisco in March, 2014. This will be an unconference style hackathon with proposals and ideas first posted and discussed here before we actually convene.
+rOpenSci will be hosting its first major developer meeting and open science hackathon in San Francisco in March, 2014. This will be an unconference-style hackathon with proposals and ideas first posted and discussed here before we actually convene.
 
 * [A tentative list of participants](https://github.com/ropensci/hackathon/wiki/Confirmed-attendees)
 * [Logistics](https://github.com/ropensci/hackathon/wiki/Logistics)
