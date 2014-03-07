@@ -1,16 +1,20 @@
 # rOpenSci Hackathon   
 __(invitation only), March 31 - April 1, 2014. San Francisco__
 
----
+![](http://i.imgur.com/TTnpSYS.png)
 
 rOpenSci will be hosting its first major developer meeting and open science hackathon in San Francisco in March, 2014. This will be an unconference style hackathon with proposals and ideas first posted and discussed here before we actually convene.
 
 
-* [List of participants](https://github.com/ropensci/hackathon/wiki/Confirmed-attendees)
+* [Participants](https://github.com/ropensci/hackathon/wiki/Confirmed-attendees)
 * [Logistics](https://github.com/ropensci/hackathon/wiki/Logistics)
-* Proposed projects - Please begin as [issues](https://github.com/ropensci/hackathon/issues) and move to the wiki and/or a new repo within ropensci's account as needed.
+* [Proposed projects](https://github.com/ropensci/hackathon/issues) - Please begin as [issues](https://github.com/ropensci/hackathon/issues/new) and move to the wiki and/or a new repo within rOpenSci's account as needed.
+
+Event hashtag is `#ropenhack`
 
 ## Support  
-This meeting is made possible by generous support from the Alfred P. Sloan foundation and GitHub.
+This meeting is made possible by generous support from the 
+
+![Alfred P. Sloan foundation](http://i.imgur.com/7TNbKQk.png) and ![GitHub](http://i.imgur.com/1NCJmIj.png).
 
 
