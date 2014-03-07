@@ -15,6 +15,6 @@ Event hashtag is `#ropenhack`
 ## Support  
 This meeting is made possible by generous support from the 
 
-![Alfred P. Sloan foundation](http://i.imgur.com/7TNbKQk.png) and ![GitHub](http://i.imgur.com/1NCJmIj.png).
+![Alfred P. Sloan foundation](http://i.imgur.com/GjPfx0d.png)  ![GitHub](http://i.imgur.com/3Pq3ZR5.png)
 
 
