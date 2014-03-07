@@ -13,7 +13,7 @@ rOpenSci will be hosting its first major developer meeting and open science hack
 Event hashtag is `#ropenhack`
 
 ## Support  
-This meeting is made possible by generous support from the 
+This meeting is made possible by generous support from: 
 
 ![Alfred P. Sloan foundation](http://i.imgur.com/GjPfx0d.png)  ![GitHub](http://i.imgur.com/3Pq3ZR5.png)
 
