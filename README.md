@@ -8,7 +8,7 @@ rOpenSci will be hosting its first major developer meeting and open science hack
 
 * [Participants](https://github.com/ropensci/hackathon/wiki/Confirmed-attendees)
 * [Logistics](https://github.com/ropensci/hackathon/wiki/Logistics)
-* [Projects page](Reproducibility Practices Guide) - Please begin as [issues](https://github.com/ropensci/hackathon/issues/new) and move to the wiki and/or a new repo within rOpenSci's account as needed.
+* [Projects page`](https://github.com/ropensci/hackathon/wiki/Projects) - Please begin as [issues](https://github.com/ropensci/hackathon/issues/new) and move to the wiki and/or a new repo within rOpenSci's account as needed.
 
 Event hashtag is `#ropenhack`
 
