@@ -12,6 +12,9 @@ rOpenSci will be hosting its first major developer meeting and open science hack
 
 Event hashtag is `#ropenhack`
 
+__Remote participants__  
+For those interested in participating remotely, please email remote-hacker at ropensci.org for an invite to our chat room (but also just watch the repo for discussion happening in the issues).
+
 ## Support  
 This meeting is made possible by generous support from: 
 
